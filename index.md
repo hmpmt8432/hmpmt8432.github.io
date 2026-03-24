@@ -1,123 +1,53 @@
 ---
-layout: default
+title: Home
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Jeremiah Cornelius
 
-[Link to another page](./another-page.html).
+## Project/Program Management | Cybersecurity | Homelab Builder
 
-There should be whitespace between paragraphs.
+Welcome to my portfolio. I built this site to document my work, growth, and practical experience across project/program management and cybersecurity.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My background combines leadership, operational execution, structured problem-solving, and a growing technical focus in cybersecurity. I am especially interested in building secure environments, documenting technical projects clearly, and applying project management principles to real-world systems and security initiatives.
 
-# Header 1
+I am currently building a homelab to develop and demonstrate hands-on experience in areas such as network segmentation, Active Directory, centralized logging, security monitoring, vulnerability management, and incident response.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Current Focus
 
-## Header 2
+My current focus is building a structured cybersecurity homelab that simulates a small enterprise environment. This lab serves as both a technical training platform and a project portfolio, allowing me to document architecture, implementation, troubleshooting, risk considerations, and lessons learned.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Featured Projects
 
-### Header 3
+### [Homelab Architecture Build](/projects/homelab-architecture)
+Design and build of a foundational homelab environment to support future cybersecurity projects, documentation, and testing.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### [pfSense Network Segmentation](/projects/pfsense-network-segmentation)
+Deployment of a firewall-based network design to separate trusted and lab traffic while improving visibility and control.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### [Active Directory Lab](/projects/active-directory-lab)
+Creation of a Windows Server domain environment to support identity, policy, and administrative security testing.
 
-#### Header 4
+## Portfolio Sections
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- [About Me](/about)
+- [Homelab / Cybersecurity Projects](/homelab)
+- [Project & Program Management](/project-management)
+- [Certifications](/certifications)
+- [Resume](/resume)
 
-##### Header 5
+## Professional Interests
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+My portfolio is focused on documenting experience related to:
 
-###### Header 6
+- cybersecurity operations
+- governance, risk, and compliance
+- security monitoring and incident response
+- project and program management
+- process improvement
+- structured technical documentation
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Connect
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- GitHub: [hmpmt8432](https://github.com/hmpmt8432)
+- LinkedIn: add-your-link-here
+- Resume: [View Resume](/resume)
